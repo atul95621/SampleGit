@@ -14,5 +14,8 @@ class MainActivity : AppCompatActivity() {
         Log.e("hello_new"," initial message")
         Log.e("branch"," master branch")
 
+        ////////////////
+        Log.e("new_messg"," mesg1")
+
     }
 }
