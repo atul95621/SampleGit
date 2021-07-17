@@ -21,5 +21,10 @@ class MainActivity : AppCompatActivity() {
 
         Log.e("branch1 PR"," branch1 chags")
 
+        Log.e("branch2 local"," branch1 chags")
+
+
+        // hello2455
+
     }
 }
