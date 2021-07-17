@@ -9,5 +9,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
         Log.e("hello"," initial message")
+        Log.e("new_branch"," branch1")
+
     }
 }
