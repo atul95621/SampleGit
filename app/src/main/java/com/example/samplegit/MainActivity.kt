@@ -8,6 +8,8 @@ class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        Log.e("hello"," initial message")
+        Log.e("hello_new"," initial message")
+        Log.e("branch"," master branch")
+
     }
 }
